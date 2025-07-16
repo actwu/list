@@ -1,6 +1,8 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+<link rel="preload" as='style' href="https://actwu.github.io/md2.css"/>
+<link rel="stylesheet" href="https://actwu.github.io/md2.css"/>
 <link rel="preload" as='https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js'/>
 <script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
 <style> body{margin:auto;padding:0.4em !important;} *:not(last-child){margin-bottom:var(--mar);} * {border: unset;outline: unset; word-break: break-all;}
