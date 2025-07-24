@@ -116,6 +116,13 @@ app('Actwu-List'); fav(3);
 - Jserdr
 - [Pin List](https://pinlist.vercel.app/)
 - [Videofy](https://videofy.web.app/)
+- [PWA Gen](actwu.github.io/gen/pwa)
+- [SEO Gen](https://actwu.github.io/gen/seo)
+- [Actwu Code](https://actwu.github.io/gen/seo)
+- [Actwu Icons](https://actwu.github.io/icon)
+- [Actwu Page Publish](https://actwu.github.io/page)
+- [Actwu Learn](https://actwu.github.io/learn)
+
 - Audiofy (Depublished)
 - DCPL
 - [Lcup CDNM](https://lcup.web.app/cdnm)
