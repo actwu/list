@@ -40,360 +40,208 @@ I focus on:
 
 ## 🎮 Games (10)
 
-1. [Tic-Tac-Toe Game](https://nay.web.app/list)
+1) [Tic-Tac-Toe Game](https://nay.web.app/list)  
+2) [Chess Game](https://nay.web.app/list)  
+3) [Chess Master](https://nay.web.app/list)  
+4) [Apostro](https://nay.web.app/list)  
+5) [Museo](https://nay.web.app/list)  
+6) [Pic Net Server](https://nay.web.app/list)  
+7) [Minecraft Cretegmc Server](https://nay.web.app/list)  
+8) [Minecraft Enderbrick Launcher](https://nay.web.app/list)  
+9) [Minecraft C Launcher](https://nay.web.app/list)  
+10) [Pause Hacking Client](https://nay.web.app/list)  
 
-2. [Chess Game](https://nay.web.app/list)
-
-3. [Chess Master](https://nay.web.app/list)
-
-4. [Apostro](https://nay.web.app/list)
-
-5. [Museo](https://nay.web.app/list)
-
-6. [Pic Net Server](https://nay.web.app/list)
-
-7. [Minecraft Cretegmc Server](https://nay.web.app/list)
-
-8. [Minecraft Enderbrick Launcher](https://nay.web.app/list)
-
-9. [Minecraft C Launcher](https://nay.web.app/list)
-
-10. [Pause Hacking Client](https://nay.web.app/list)
-
+---
 
 ## ⚙️ Advanced Systems (23)
 
-11. [Nai OS](https://actwu.github.io/linux)
+11) [Nai OS](https://actwu.github.io/linux)  
+12) [USI (User is Server Instance)](https://nay.web.app/list)  
+13) [UAS (User as Server)](https://nay.web.app/list)  
+14) [MTM (Many to Many)](https://nay.web.app/list)  
+15) [Nine DB](https://nay.web.app/list)  
+16) [Futr Artificial Conduit Models](https://nay.web.app/list)  
+17) [QEW AI](https://nay.web.app/list)  
+18) [Qe AI](https://nay.web.app/list)  
+19) [A.D.H.D Model](https://nay.web.app/list)  
+20) [MEL AC](https://nay.web.app/list)  
+21) [WebUNIX (Depublished)](https://nay.web.app/list)  
+22) [MEL AI](https://nay.web.app/list)  
+23) [QEW AC](https://nay.web.app/list)  
+24) [Sam AI](https://nay.web.app/list)  
+25) [CodeEn AI Platform (Depublished)](https://nay.web.app/list)  
+26) [Portfolia](https://nay.web.app/list)  
+27) [Volt OS](https://voltos.web.app/)  
+28) [Webopl](https://nay.web.app/list)  
+29) [Webgrub](https://nay.web.app/list)  
+30) [Weblinux](https://nay.web.app/list)  
+31) [CI Firebase GitHub](https://nay.web.app/list)  
+32) [Gabby AI](https://nay.web.app/list)  
+33) [Nay Security (Anti Cheat / Anti Inspect)](https://nay.web.app/list)  
 
-12. [USI (User is Server Instance)](https://nay.web.app/list)
-
-13. [UAS (User as Server)](https://nay.web.app/list)
-
-14. [MTM (Many to Many)](https://nay.web.app/list)
-
-15. [Nine DB](https://nay.web.app/list)
-
-16. [Futr Artificial Conduit Models](https://nay.web.app/list)
-
-17. [QEW AI](https://nay.web.app/list)
-
-18. [Qe AI](https://nay.web.app/list)
-
-19. [A.D.H.D Model](https://nay.web.app/list)
-
-20. [MEL AC](https://nay.web.app/list)
-
-21. [WebUNIX (Depublished)](https://nay.web.app/list)
-
-22. [MEL AI](https://nay.web.app/list)
-
-23. [QEW AC](https://nay.web.app/list)
-
-24. [Sam AI](https://nay.web.app/list)
-
-25. [CodeEn AI Platform (Depublished)](https://nay.web.app/list)
-
-26. [Portfolia](https://nay.web.app/list)
-
-27. [Volt OS](https://voltos.web.app/)
-
-28. [Webopl](https://nay.web.app/list)
-
-29. [Webgrub](https://nay.web.app/list)
-
-30. [Weblinux](https://nay.web.app/list)
-
-31. [CI Firebase GitHub](https://nay.web.app/list)
-
-32. [Gabby AI](https://nay.web.app/list)
-
-33. [Nay Security (Anti Cheat / Anti Inspect)](https://nay.web.app/list)
-
+---
 
 ## 🎨 UI Frameworks & Design Tools (19)
 
-34. [3DTEST](https://nay.web.app/list)
+34) [3DTEST](https://nay.web.app/list)  
+35) [2to3d](https://nay.web.app/list)  
+36) [Cordzip (Transferred)](https://nay.web.app/list)  
+37) [Futr CSS](https://nay.web.app/list)  
+38) [Futr Framework](https://nay.web.app/list)  
+39) [Futr JS](https://nay.web.app/list)  
+40) [Just CSS](https://nay.web.app/list)  
+41) [Cute UI](https://nay.web.app/list)  
+42) [Lyche UI](https://nay.web.app/list)  
+43) [Neu CSS](https://nay.web.app/list)  
+44) [Just Framework](https://nay.web.app/list)  
+45) [Rset CSS](https://nay.web.app/list)  
+46) [BulmaCSS Fork](https://nay.web.app/list)  
+47) [Qewbot](https://nay.web.app/list)  
+48) [Cutemd](https://nay.web.app/list)  
+49) [NUM UI](https://nay.web.app/list)  
+50) [UI md](https://nay.web.app/list)  
+51) [AUTO UI by NUM](https://nay.web.app/list)  
+52) [Now UI](https://nay.web.app/list)  
 
-35. [2to3d](https://nay.web.app/list)
-
-36. [Cordzip (Transferred)](https://nay.web.app/list)
-
-37. [Futr CSS](https://nay.web.app/list)
-
-38. [Futr Framework](https://nay.web.app/list)
-
-39. [Futr JS](https://nay.web.app/list)
-
-40. [Just CSS](https://nay.web.app/list)
-
-41. [Cute UI](https://nay.web.app/list)
-
-42. [Lyche UI](https://nay.web.app/list)
-
-43. [Neu CSS](https://nay.web.app/list)
-
-44. [Just Framework](https://nay.web.app/list)
-
-45. [Rset CSS](https://nay.web.app/list)
-
-46. [BulmaCSS Fork](https://nay.web.app/list)
-
-47. [Qewbot](https://nay.web.app/list)
-
-48. [Cutemd](https://nay.web.app/list)
-
-49. [NUM UI](https://nay.web.app/list)
-
-50. [UI md](https://nay.web.app/list)
-
-51. [AUTO UI by NUM](https://nay.web.app/list)
-
-52. [Now UI](https://nay.web.app/list)
-
+---
 
 ## 🧩 ISE Ecosystem (10)
 
-53. [ISE](https://nay.web.app/list)
+53) [ISE](https://nay.web.app/list)  
+54) [Loaf Language](https://nay.web.app/list)  
+55) [NUM Language](https://nay.web.app/list)  
+56) [ISE Script](https://nay.web.app/list)  
+57) [ISE Native](https://nay.web.app/list)  
+58) [SenUI](https://nay.web.app/list)  
+59) [Omnigo](https://nay.web.app/list)  
+60) [Purpos](https://nay.web.app/list)  
+61) [MINT Version Control](https://nay.web.app/list)  
+62) [Marala (Language)](https://nay.web.app/list)  
 
-54. [Loaf Language](https://nay.web.app/list)
+---
 
-55. [NUM Language](https://nay.web.app/list)
+## 📱 Applications (40)
 
-56. [ISE Script](https://nay.web.app/list)
+63) [App Checker (Corrupted)](https://nay.web.app/list)  
+64) [App Edit](https://nay.web.app/list)  
+65) [Calculator](https://nay.web.app/list)  
+66) [Note](https://nay.web.app/list)  
+67) [Drawboard](https://nay.web.app/list)  
+68) [Rb7](https://nay.web.app/list)  
+69) [Futr Build](https://nay.web.app/list)  
+70) [Futr Code](https://actwu.web.app/code2)  
+71) [Actwu Code](https://actwu.github.io/code)  
+72) [Open Rev](https://nay.web.app/list)  
+73) [Weffle](https://nay.web.app/list)  
+74) [Capview](https://nay.web.app/list)  
+75) [Combine](https://nay.web.app/list)  
+76) [Redeem](https://nay.web.app/list)  
+77) [Futr X](https://nay.web.app/list)  
+78) [Myu Code](https://nay.web.app/list)  
+79) [Lyche Code](https://nay.web.app/list)  
+80) [MyURL](https://myurl.github.io/)  
+81) [Hamkke Code](https://hamkke.web.app/)  
+82) [Hamkke Call](https://hamkke.web.app/call/)  
+83) [Againapp Alpha](https://again.github.io/)  
+84) [Again by Selhue](https://selhue.com/again)  
+85) [Seen by Selhue](https://selhue.com/seen)  
+86) [Docufy by Selhue](https://selhue.com/doc)  
+87) [Actwu Publisher](https://actwu.github.io/page)  
+88) [Duck Convert](https://actwu.web.app/convert/duck)  
+89) [Console](https://actwu.web.app/console)  
+90) [Slide](https://actwu.web.app/slide)  
+91) [MySite Sample](https://actwu.web.app/mywebsite)  
+92) [Lycheli](https://lyche.li/)  
+93) [Oshan](https://oshan.top/)  
+94) [NowSign](https://nowsign.web.app/)  
+95) [ISE Browser](https://nay.web.app/list)  
+96) [Identify'](https://nay.web.app/list)  
+97) [Amlet](https://nay.web.app/list)  
+98) [Codeshare](https://nay.web.app/list)  
+99) [Atstem](https://atstem.web.app/)  
+100) [Nearby by Atstem](https://atstem.web.app/nearby)  
+101) [Remis](https://nay.web.app/list)  
+102) [Panel](https://lcup.web.app/panel)  
 
-57. [ISE Native](https://nay.web.app/list)
-
-58. [SenUI](https://nay.web.app/list)
-
-59. [Omnigo](https://nay.web.app/list)
-
-60. [Purpos](https://nay.web.app/list)
-
-61. [MINT Version Control](https://nay.web.app/list)
-
-62. [Marala (Language)](https://nay.web.app/list)
-
-
-## 📱 Applications (43)
-
-63. [App Checker (Corrupted)](https://nay.web.app/list)
-
-64. [App Edit](https://nay.web.app/list)
-
-65. [Calculator](https://nay.web.app/list)
-
-66. [Note](https://nay.web.app/list)
-
-67. [Drawboard](https://nay.web.app/list)
-
-68. [Rb7](https://nay.web.app/list)
-
-69. [Futr Build](https://nay.web.app/list)
-
-70. [Futr Code](https://actwu.web.app/code2)
-
-71. [Actwu Code](https://actwu.github.io/code)
-
-72. [Open Rev](https://nay.web.app/list)
-
-73. [Weffle](https://nay.web.app/list)
-
-74. [Capview](https://nay.web.app/list)
-
-75. [Combine](https://nay.web.app/list)
-
-76. [Redeem](https://nay.web.app/list)
-
-77. [Futr X](https://nay.web.app/list)
-
-78. [Myu Code](https://nay.web.app/list)
-
-79. [Lyche Code](https://nay.web.app/list)
-
-80. [MyURL](https://myurl.github.io/)
-
-81. [Hamkke Code](https://hamkke.web.app/)
-
-82. [Hamkke Call](https://hamkke.web.app/call/)
-
-83. [Againapp Alpha](https://again.github.io/)
-
-84. [Again by Selhue](https://selhue.com/again)
-
-85. [Seen by Selhue](https://selhue.com/seen)
-
-86. [Docufy by Selhue](https://selhue.com/doc)
-
-87. [Actwu Publisher](https://actwu.github.io/page)
-
-88. [Duck Convert](https://actwu.web.app/convert/duck)
-
-89. [Console](https://actwu.web.app/console)
-
-90. [Slide](https://actwu.web.app/slide)
-
-91. [MySite Sample](https://actwu.web.app/mywebsite)
-
-92. [Lycheli](https://lyche.li/)
-
-93. [Oshan](https://oshan.top/)
-
-94. [NowSign](https://nowsign.web.app/)
-
-95. [ISE Browser](https://nay.web.app/list)
-
-96. [Identify'](https://nay.web.app/list)
-
-97. [Amlet](https://nay.web.app/list)
-
-98. [Codeshare](https://nay.web.app/list)
-
-99. [Atstem](https://atstem.web.app/)
-
-100. [Nearby by Atstem](https://atstem.web.app/nearby)
-
-101. [Remis](https://nay.web.app/list)
-
-102. [Panel](https://lcup.web.app/panel)
-
-103. [Omix Logo](https://nay.web.app/list)
-
-104. [Omix Brander](https://nay.web.app/list)
-
-105. [Omix Pager](https://nay.web.app/list)
-
+---
 
 ## 🧪 Miscellaneous Apps (22)
 
-106. [Calkyo](https://actwu.github.io/calc)
-
-107. [Nottle](https://nay.web.app/list)
-
-108. [Actwu APIs](https://actwu.web.app/api)
-
-109. [ESV JSON](https://actwu.web.app/api/esv.json)
-
-110. [Jserdr](https://nay.web.app/list)
-
-111. [Pin List](https://pinlist.vercel.app/)
-
-112. [Videofy](https://videofy.web.app/)
-
-113. [Audiofy (Depublished)](https://nay.web.app/list)
-
-114. [DCPL](https://nay.web.app/list)
-
-115. [Lcup CDNM](https://lcup.web.app/cdnm)
-
-116. [enList](https://nay.web.app/list)
-
-117. [SwiftSafe](https://nay.web.app/list)
-
-118. [Setlink Web4](https://setlink.web.app/)
-
-119. [Bibit](https://actwu.web.app/bibit)
-
-120. [Nine DB (NDA)](https://nay.web.app/list)
-
-121. [U Share](https://u2.web.app/)
-
-122. [Contract Web](https://nay.web.app/list)
-
-123. [NGL](https://nay.web.app/list)
-
-124. [FONTify](https://nay.web.app/list)
-
-125. [Pyu (Python)](https://nay.web.app/list)
-
-126. [Fine DB](https://nay.web.app/list)
-
-127. [Opt Web](https://nay.web.app/list)
-
-
-## 🌐 Websites (43)
-
-128. [yngh](https://lyche.li/yngh)
-
-129. [be:lieve](https://nay.web.app/list)
-
-130. [Openrev](https://nay.web.app/list)
-
-131. [AniTala](https://nay.web.app/list)
-
-132. [Kertree](https://nay.web.app/list)
-
-133. [Rizz Univ (Closed)](https://nay.web.app/list)
-
-134. [Haze (Privated)](https://nay.web.app/list)
-
-135. [Enderbrick](https://nay.web.app/list)
-
-136. [Catkatwu](https://nay.web.app/list)
-
-137. [Linkr](https://nay.web.app/list)
-
-138. [Oshan](https://oshan.top/)
-
-139. [Ten54](https://nay.web.app/list)
-
-140. [Mytro](https://nay.web.app/list)
-
-141. [Pickatwu](https://nay.web.app/list)
-
-142. [Inlink](https://nay.web.app/list)
-
-143. [Test](https://actwu.web.app/test)
-
-144. [TM](https://actwu.web.app/tm)
-
-145. [PWA Demo](https://actwu.web.app/pwa)
-
-146. [YK Studio](https://nay.web.app/list)
-
-147. [Twu Verse](https://nay.web.app/list)
-
-148. [Matble](https://nay.web.app/list)
-
-149. [Respons](https://nay.web.app/list)
-
-150. [Lyche](https://lyche.li/)
-
-151. [Insharebyte](https://nay.web.app/list)
-
-152. [Laucsap](https://nay.web.app/list)
-
-153. [Lcup Student](https://nay.web.app/list)
-
-154. [Yumi](https://nay.web.app/list)
-
-155. [Cute](https://actwu.github.io/cutie/)
-
-156. [Demo](https://actwu.github.io/demo/)
-
-157. [Samples](https://actwu.github.io/sample)
-
-158. [Meyumi](https://nay.web.app/list)
-
-159. [Portfolia](https://nay.web.app)
-
-160. [Search](https://actwu.web.app/search)
-
-161. [Yo](https://actwu.web.app/yo)
-
-162. [Source](https://actwu.web.app/source)
-
-163. [PTU2 (Unlisted)](https://nay.web.app/list)
-
-164. [SYSMP (Unlisted)](https://nay.web.app/list)
-
-165. [Better Up Network](https://betterup.web.app/)
-
-166. [Samx Day](https://samx.web.app/)
-
-167. [Lue Make](https://lue.web.app)
-
-168. [Life](https://nay.web.app/list)
-
-169. [Leap](https://weleap.web.app)
-
-170. [Uplancer](https://uplance.web.app)
+103) [Calkyo](https://actwu.github.io/calc)  
+104) [Nottle](https://nay.web.app/list)  
+105) [Actwu APIs](https://actwu.web.app/api)  
+106) [ESV JSON](https://actwu.web.app/api/esv.json)  
+107) [Jserdr](https://nay.web.app/list)  
+108) [Pin List](https://pinlist.vercel.app/)  
+109) [Videofy](https://videofy.web.app/)  
+110) [Audiofy (Depublished)](https://nay.web.app/list)  
+111) [DCPL](https://nay.web.app/list)  
+112) [Lcup CDNM](https://lcup.web.app/cdnm)  
+113) [enList](https://nay.web.app/list)  
+114) [SwiftSafe](https://nay.web.app/list)  
+115) [Setlink Web4](https://setlink.web.app/)  
+116) [Bibit](https://actwu.web.app/bibit)  
+117) [Nine DB (NDA)](https://nay.web.app/list)  
+118) [U Share](https://u2.web.app/)  
+119) [Contract Web](https://nay.web.app/list)  
+120) [NGL](https://nay.web.app/list)  
+121) [FONTify](https://nay.web.app/list)  
+122) [Pyu (Python)](https://nay.web.app/list)  
+123) [Fine DB](https://nay.web.app/list)  
+124) [Opt Web](https://nay.web.app/list)  
+
+---
+
+## 🌐 Websites (46)
+
+125) [yngh](https://lyche.li/yngh)  
+126) [be:lieve](https://nay.web.app/list)  
+127) [Openrev](https://nay.web.app/list)  
+128) [AniTala](https://nay.web.app/list)  
+129) [Kertree](https://nay.web.app/list)  
+130) [Rizz Univ](https://nay.web.app/list)  
+131) [Haze](https://nay.web.app/list)  
+132) [Enderbrick](https://nay.web.app/list)  
+133) [Catkatwu](https://nay.web.app/list)  
+134) [Linkr](https://nay.web.app/list)  
+135) [Oshan](https://oshan.top/)  
+136) [Ten54](https://nay.web.app/list)  
+137) [Mytro](https://nay.web.app/list)  
+138) [Pickatwu](https://nay.web.app/list)  
+139) [Inlink](https://nay.web.app/list)  
+140) [Test](https://actwu.web.app/test)  
+141) [TM](https://actwu.web.app/tm)  
+142) [PWA Demo](https://actwu.web.app/pwa)  
+143) [YK Studio](https://nay.web.app/list)  
+144) [Twu Verse](https://nay.web.app/list)  
+145) [Matble](https://nay.web.app/list)  
+146) [Respons](https://nay.web.app/list)  
+147) [Lyche](https://lyche.li/)  
+148) [Insharebyte](https://nay.web.app/list)  
+149) [Laucsap](https://nay.web.app/list)  
+150) [Lcup Student](https://nay.web.app/list)  
+151) [Yumi](https://nay.web.app/list)  
+152) [Cute](https://actwu.github.io/cutie/)  
+153) [Demo](https://actwu.github.io/demo/)  
+154) [Samples](https://actwu.github.io/sample)  
+155) [Meyumi](https://nay.web.app/list)  
+156) [Portfolia](https://nay.web.app)  
+157) [Search](https://actwu.web.app/search)  
+158) [Yo](https://actwu.web.app/yo)  
+159) [Source](https://actwu.web.app/source)  
+160) [PTU2](https://nay.web.app/list)  
+161) [SYSMP](https://nay.web.app/list)  
+162) [Better Up Network](https://betterup.web.app/)  
+163) [Samx Day](https://samx.web.app/)  
+164) [Lue Make](https://lue.web.app)  
+165) [Life](https://nay.web.app/list)  
+166) [Leap](https://weleap.web.app)  
+167) [Uplancer](https://uplance.web.app)  
+
+---
+
+## 🧱 Omix Suite (3)
+
+168) [Omix Logo](https://nay.web.app/list)  
+169) [Omix Brander](https://nay.web.app/list)  
+170) [Omix Pager](https://nay.web.app/list)
