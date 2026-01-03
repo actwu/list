@@ -33,208 +33,150 @@ I focus on:
 > **Note:** This is a partial list. I have a large number of published, private, proprietary, and NDA-bound products (≈3800+).  
 > I left GitHub due to unusual performance issues and now use **MINT**, my own Git + linked system.
 
+
 ---
 
 ## 🎮 Games (10)
 
-1. Tic-Tac-Toe Game  
-2. Chess Game  
-3. Chess Master  
-4. Apostro  
-5. Museo  
-6. Pic Net Server  
-7. Minecraft Cretegmc Server  
-8. Minecraft Enderbrick Launcher  
-9. Minecraft C Launcher  
-10. Pause Hacking Client  
+1. [Tic-Tac-Toe Game](https://nay.web.app/list)
+2. [Chess Game](https://nay.web.app/list)
+3. [Chess Master](https://nay.web.app/list)
+4. [Apostro](https://nay.web.app/list)
+5. [Museo](https://nay.web.app/list)
+6. [Pic Net Server](https://nay.web.app/list)
+7. [Minecraft Cretegmc Server](https://nay.web.app/list)
+8. [Minecraft Enderbrick Launcher](https://nay.web.app/list)
+9. [Minecraft C Launcher](https://nay.web.app/list)
+10. [Pause Hacking Client](https://nay.web.app/list)
 
 ---
 
 ## ⚙️ Advanced Systems (23)
 
-11. Nai OS – https://actwu.github.io/linux  
-12. USI (User is Server Instance)  
-13. UAS (User as Server)  
-14. MTM (Many to Many)  
-15. Nine DB  
-16. Futr Artificial Conduit Models  
-17. QEW AI  
-18. Qe AI  
-19. A.D.H.D Model  
-20. MEL AC  
-21. WebUNIX *(Depublished)*  
-22. MEL AI  
-23. QEW AC  
-24. Sam AI  
-25. CodeEn AI Platform *(Depublished)*  
-26. Portfolia  
-27. Volt OS – https://voltos.web.app/  
-28. Webopl  
-29. Webgrub  
-30. Weblinux  
-31. CI Firebase GitHub  
-32. Gabby AI  
-33. Nay Security (Anti-Cheat / Anti-Inspect)  
+11. [Nai OS](https://actwu.github.io/linux)
+12. [USI (User is Server Instance)](https://nay.web.app/list)
+13. [UAS (User as Server)](https://nay.web.app/list)
+14. [MTM (Many to Many)](https://nay.web.app/list)
+15. [Nine DB](https://nay.web.app/list)
+16. [Futr Artificial Conduit Models](https://nay.web.app/list)
+17. [QEW AI](https://nay.web.app/list)
+18. [Qe AI](https://nay.web.app/list)
+19. [A.D.H.D Model](https://nay.web.app/list)
+20. [MEL AC](https://nay.web.app/list)
+21. [WebUNIX (Depublished)](https://nay.web.app/list)
+22. [MEL AI](https://nay.web.app/list)
+23. [QEW AC](https://nay.web.app/list)
+24. [Sam AI](https://nay.web.app/list)
+25. [CodeEn AI Platform (Depublished)](https://nay.web.app/list)
+26. [Portfolia](https://nay.web.app/list)
+27. [Volt OS](https://voltos.web.app/)
+28. [Webopl](https://nay.web.app/list)
+29. [Webgrub](https://nay.web.app/list)
+30. [Weblinux](https://nay.web.app/list)
+31. [CI Firebase GitHub](https://nay.web.app/list)
+32. [Gabby AI](https://nay.web.app/list)
+33. [Nay Security (Anti Cheat / Anti Inspect)](https://nay.web.app/list)
 
 ---
 
 ## 🎨 UI Frameworks & Design Tools (19)
 
-34. 3DTEST  
-35. 2to3d  
-36. Cordzip *(Transferred)*  
-37. Futr CSS  
-38. Futr Framework  
-39. Futr JS  
-40. Just CSS  
-41. Cute UI  
-42. Lyche UI  
-43. Neu CSS  
-44. Just Framework  
-45. Rset CSS  
-46. BulmaCSS Fork  
-47. Qewbot  
-48. Cutemd  
-49. NUM UI  
-50. UI MD  
-51. AUTO UI by NUM  
-52. Now UI  
+34. [3DTEST](https://nay.web.app/list)
+35. [2to3d](https://nay.web.app/list)
+36. [Cordzip (Transferred)](https://nay.web.app/list)
+37. [Futr CSS](https://nay.web.app/list)
+38. [Futr Framework](https://nay.web.app/list)
+39. [Futr JS](https://nay.web.app/list)
+40. [Just CSS](https://nay.web.app/list)
+41. [Cute UI](https://nay.web.app/list)
+42. [Lyche UI](https://nay.web.app/list)
+43. [Neu CSS](https://nay.web.app/list)
+44. [Just Framework](https://nay.web.app/list)
+45. [Rset CSS](https://nay.web.app/list)
+46. [BulmaCSS Fork](https://nay.web.app/list)
+47. [Qewbot](https://nay.web.app/list)
+48. [Cutemd](https://nay.web.app/list)
+49. [NUM UI](https://nay.web.app/list)
+50. [UI MD](https://nay.web.app/list)
+51. [AUTO UI by NUM](https://nay.web.app/list)
+52. [Now UI](https://nay.web.app/list)
 
 ---
 
 ## 🧩 ISE Ecosystem (10)
 
-53. ISE  
-54. Loaf Language  
-55. NUM Language  
-56. ISE Script  
-57. ISE Native  
-58. SenUI  
-59. Omnigo  
-60. Purpos  
-61. MINT Version Control  
-62. Marala (Language)  
+53. [ISE](https://nay.web.app/list)
+54. [Loaf Language](https://nay.web.app/list)
+55. [NUM Language](https://nay.web.app/list)
+56. [ISE Script](https://nay.web.app/list)
+57. [ISE Native](https://nay.web.app/list)
+58. [SenUI](https://nay.web.app/list)
+59. [Omnigo](https://nay.web.app/list)
+60. [Purpos](https://nay.web.app/list)
+61. [MINT Version Control](https://nay.web.app/list)
+62. [Marala (Language)](https://nay.web.app/list)
 
 ---
 
 ## 📱 Applications (41)
 
-63. App Checker *(Corrupted)*  
-64. App Edit  
-65. Calculator  
-66. Note  
-67. Drawboard  
-68. Rb7  
-69. Futr Build *(acquired by builtX)*  
-70. Futr Code – https://actwu.web.app/code2  
-71. Actwu Code – https://actwu.github.io/code  
-72. Open Rev  
-73. Weffle *(acquired)*  
-74. Capview *(sold)*  
-75. Combine *(cancelled)*  
-76. Redeem *(acquired)*  
-77. Futr X  
-78. Myu Code *(acquired)*  
-79. Lyche Code  
-80. MyURL – https://myurl.github.io/  
-81. Hamkke Code – https://hamkke.web.app/  
-82. Hamkke Call – https://hamkke.web.app/call/  
-83. Againapp Alpha – https://again.github.io/  
-84. Again by Selhue – https://selhue.com/again  
-85. Seen by Selhue – https://selhue.com/seen  
-86. Docufy by Selhue – https://selhue.com/doc  
-87. Actwu Publisher – https://actwu.github.io/page  
-88. Duck Convert – https://actwu.web.app/convert/duck  
-89. Console – https://actwu.web.app/console  
-90. Slide – https://actwu.web.app/slide  
-91. MySite Sample – https://actwu.web.app/mywebsite  
-92. Lycheli – https://lyche.li/  
-93. Oshan – https://oshan.top/  
-94. NowSign *(device required)* – https://nowsign.web.app/  
-95. ISE Browser  
-96. Identify'  
-97. Amlet  
-98. Codeshare  
-99. Atstem – https://atstem.web.app/  
-100. Nearby by Atstem – https://atstem.web.app/nearby  
-101. Remis  
-102. Panel – https://lcup.web.app/panel  
-103. Omix  
+63. [App Checker (Corrupted)](https://nay.web.app/list)
+64. [App Edit](https://nay.web.app/list)
+65. [Calculator](https://nay.web.app/list)
+66. [Note](https://nay.web.app/list)
+67. [Drawboard](https://nay.web.app/list)
+68. [Rb7](https://nay.web.app/list)
+69. [Futr Build](https://nay.web.app/list)
+70. [Futr Code](https://actwu.web.app/code2)
+71. [Actwu Code](https://actwu.github.io/code)
+72. [Open Rev](https://nay.web.app/list)
+73. [Weffle](https://nay.web.app/list)
+74. [Capview](https://nay.web.app/list)
+75. [Combine](https://nay.web.app/list)
+76. [Redeem](https://nay.web.app/list)
+77. [Futr X](https://nay.web.app/list)
+78. [Myu Code](https://nay.web.app/list)
+79. [Lyche Code](https://nay.web.app/list)
+80. [MyURL](https://myurl.github.io/)
+81. [Hamkke Code](https://hamkke.web.app/)
+82. [Hamkke Call](https://hamkke.web.app/call/)
+83. [Againapp Alpha](https://again.github.io/)
+84. [Again by Selhue](https://selhue.com/again)
+85. [Seen by Selhue](https://selhue.com/seen)
+86. [Docufy by Selhue](https://selhue.com/doc)
+87. [Actwu Publisher](https://actwu.github.io/page)
+88. [Duck Convert](https://actwu.web.app/convert/duck)
+89. [Console](https://actwu.web.app/console)
+90. [Slide](https://actwu.web.app/slide)
+91. [MySite Sample](https://actwu.web.app/mywebsite)
+92. [Lycheli](https://lyche.li/)
+93. [Oshan](https://oshan.top/)
+94. [NowSign](https://nowsign.web.app/)
+95. [ISE Browser](https://nay.web.app/list)
+96. [Identify'](https://nay.web.app/list)
+97. [Amlet](https://nay.web.app/list)
+98. [Codeshare](https://nay.web.app/list)
+99. [Atstem](https://atstem.web.app/)
+100. [Nearby by Atstem](https://atstem.web.app/nearby)
+101. [Remis](https://nay.web.app/list)
+102. [Panel](https://lcup.web.app/panel)
+103. [Omix](https://nay.web.app/list)
 
 ---
 
-## 🧪 Miscellaneous Apps (22)
+## 🌐 Websites (Final)
 
-104. Calkyo – https://actwu.github.io/calc  
-105. Nottle  
-106. Actwu APIs – https://actwu.web.app/api  
-107. ESV JSON – https://actwu.web.app/api/esv.json  
-108. Jserdr  
-109. Pin List – https://pinlist.vercel.app/  
-110. Videofy – https://videofy.web.app/  
-111. Audiofy *(Depublished)*  
-112. DCPL  
-113. Lcup CDNM – https://lcup.web.app/cdnm  
-114. enList  
-115. SwiftSafe  
-116. Setlink Web4 – https://setlink.web.app/  
-117. Bibit – https://actwu.web.app/bibit  
-118. Nine DB *(NDA)*  
-119. U Share – https://u2.web.app/  
-120. Contract Web  
-121. NGL  
-122. FONTify  
-123. Pyu (Python)  
-124. Fine DB  
-125. Opt Web  
+157. [Portfolia](https://nay.web.app)
+158. [Search](https://actwu.web.app/search)
+159. [Yo](https://actwu.web.app/yo)
+160. [Source](https://actwu.web.app/source)
+163. [Better Up Network](https://betterup.web.app/)
+164. [Samx Day](https://samx.web.app/)
+165. [Lue Make](https://lue.web.app)
+167. [Leap](https://weleap.web.app)
+168. [Uplancer](https://uplance.web.app)
 
 ---
 
-## 🌐 Websites (44)
 
-126. yngh – https://lyche.li/yngh  
-127. be:lieve  
-128. Openrev  
-129. AniTala  
-130. Kertree  
-131. Rizz Univ *(Closed)*  
-132. Haze *(Privated)*  
-133. Enderbrick  
-134. Catkatwu  
-135. Linkr *(code provided to LinkKR)*  
-136. Oshan – https://oshan.top/  
-137. Ten54 *(local archive)*  
-138. Mytro *(fan-made, private)*  
-139. Pickatwu  
-140. Inlink  
-141. Test – https://actwu.web.app/test  
-142. TM – https://actwu.web.app/tm  
-143. PWA Demo – https://actwu.web.app/pwa  
-144. YK Studio  
-145. Twu Verse  
-146. Matble *(commissioned)*  
-147. Respons  
-148. Lyche – https://lyche.li/  
-149. Insharebyte  
-150. Laucsap  
-151. Yukan Site  
-152. Lcup Student  
-153. Yumi  
-154. Cute – https://actwu.github.io/cutie/  
-155. Demo – https://actwu.github.io/demo/  
-156. Samples – https://actwu.github.io/sample  
-157. Meyumi  
-158. Portfolia – https://nay.web.app  
-159. Search – https://actwu.web.app/search  
-160. Yo – https://actwu.web.app/yo  
-161. Source – https://actwu.web.app/source  
-162. PTU2 *(Unlisted)*  
-163. SYSMP *(Unlisted)*  
-164. Better Up Network – https://betterup.web.app/  
-165. Samx Day – https://samx.web.app/  
-166. Lue Make – https://lue.web.app  
-167. Life  
-168. Leap – https://weleap.web.app  
-169. Uplancer – https://uplance.web.app  
-
----
+## 📱 
